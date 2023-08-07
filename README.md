@@ -1,2 +1,2 @@
-# Grocy
-"Grocy: Your one-stop online grocery store for fresh produce, pantry staples, and everyday essentials."
+# Groceteria
+"Groceteria: Your one-stop online grocery store for fresh produced items and everyday essentials."
